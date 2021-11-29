@@ -6,7 +6,7 @@ public class hello {
 		
 		System.out.println("Hello");
 		
-		int i = 5;
+		int j = 5;
 		
 		
 
